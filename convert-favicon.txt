@@ -1,0 +1,14 @@
+Manual step required: the environment's PowerShell command failed due to parsing issues.
+
+Do this locally in project folder:
+1) Create favicon.ico (multi-size if possible) using an online converter:
+   https://realfavicongenerator.net/
+2) Use the image: public/ChatGPT Image 7 Jun 2026, 19.32.11.png
+3) Download generated favicon package and place:
+   - public/favicon.ico
+   - public/apple-touch-icon.png (or preferred)
+   - (optional) public/site.webmanifest
+4) Update index.html links accordingly.
+
+(After you generate favicon.ico, I can update index.html immediately.)
+
